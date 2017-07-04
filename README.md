@@ -18,7 +18,7 @@ my work on Kappa [](TODO: Page of its own).
 Publications
 ------------
 
-Links forthcoming!
+Links forthcoming! [](TODO: Authors!)
 
 * [2017] Relaxed Linear References for Lock-Free Data Structures -- ECOOP'17
 * [2017] Actors without Borders: Amnesty for Imprisoned State -- PLACES'17
@@ -104,7 +104,7 @@ I spend a lot of my free time on listening to and creating music.
   [Uppsala Vokalensemble](http://uppsalavokalensemble.se/){:target="blank"}.
 * I also like to write and arrange choir music.
   [Here](https://www.youtube.com/watch?v=l2gzhjwBczI){:target="blank"}
-  is a recording of my setting of Alfred Tennysson's Now Sleeps
+  is a recording of my setting of Alfred Tennyson's Now Sleeps
   the Crimson Petal, performed by the women's choir
   [Discordia](http://udkdiscordia.se/){:target="blank"}.
   [](TODO: Another page)
