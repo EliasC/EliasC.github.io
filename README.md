@@ -18,17 +18,24 @@ my work on Kappa [](TODO: Page of its own).
 Publications
 ------------
 
-Links forthcoming! [](TODO: Authors!)
-
 * [2017] Relaxed Linear References for Lock-Free Data Structures -- ECOOP'17
+  ([paper and talk](http://2017.ecoop.org/event/ecoop-2017-papers-relaxed-linear-references-for-lock-free-programming){:target="blank"} | [slides](slides/ECOOP17.pdf){:target="blank"})
 * [2017] Actors without Borders: Amnesty for Imprisoned State -- PLACES'17
+  ([paper](https://arxiv.org/abs/1704.03094){:target="blank"} | [slides](slides/ActorsWithoutBorders.pdf){:target="blank"})
 * [2016] Reference Capabilities for Trait Based Reuse and Concurrency Control -- Technical Report
-* [2016] LOLCAT: Relaxed Linear References for Lock-free Programming -- Technical Report
+  ([paper](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-309774){:target="blank"})
 * [2016] Types for CAS: Relaxed Linearity with Ownership Transfer -- NWPT'16
+  ([paper](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-309777){:target="blank"})
+* [2016] LOLCAT: Relaxed Linear References for Lock-free Programming -- Technical Report
+  ([paper](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-309776){:target="blank"})
 * [2016] Reference Capabilities for Concurrency Control -- ECOOP'16
+  ([paper and talk](http://2016.ecoop.org/event/ecoop-2016-papers-reference-capabilities-for-concurrency-control){:target="blank"} | [slides](slides/ECOOP16.pdf){:target="blank"} | [poster](posters/ECOOP16.pdf){:target="blank"})
 * [2016] Kappa: Insights, Current Status and Future Work -- IWACO'16
+  ([paper](http://2016.ecoop.org/event/iwaco-2016-first-paper-kappa-insights-current-status-and-future-work){:target="blank"} | [slides](slides/IWACO16.pdf){:target="blank"})
 * [2015] Parallel Objects for Multicores: A Glimpse at the Parallel Language Encore -- SFM'15
-* [2014] Capable: Capabilities for Scalabilities -- IWACO'14
+  ([paper](https://www.it.uu.se/katalog/stebr742/Encore-Glimpse/Encore_Glimpse_Preprint.pdf){:target="blank"})
+* [2014] Capable: Capabilities for Scalability -- IWACO'14
+  ([paper](http://www.ownership-types.org/iwaco14/program_files/Paper2.pdf){:target="blank"} | [slides](slides/IWACO14.pdf){:target="blank"})
 
 
 Community Service
@@ -69,7 +76,8 @@ Teaching
 
 I am the main teaching assistant for a second year 20 ECTS credits
 course called Imperative and Object-Oriented Programming
-Methodology. [](TODO: Add more info)
+Methodology, given by Tobias Wrigstad. In 2017, Tobias was voted
+teacher of the year by the CS and IT students! [](TODO: Add more info)
 
 During 2016 and 2017 I shared the lectures of another 20 ECTS
 credits course called Program Design and Data Structures.
