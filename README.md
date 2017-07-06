@@ -14,6 +14,7 @@ highly concurrent object-oriented programming language. Encore's
 type system guarantees the absence of data-races and is based on
 my work on Kappa [](TODO: Page of its own).
 
+[](TODO: Research interests + link to summary of research (Kappa page?))
 
 Publications
 ------------
@@ -32,6 +33,8 @@ Publications
   ([paper and talk](http://2016.ecoop.org/event/ecoop-2016-papers-reference-capabilities-for-concurrency-control){:target="blank"} | [slides](slides/ECOOP16.pdf){:target="blank"} | [poster](posters/ECOOP16.pdf){:target="blank"})
 * [2016] Kappa: Insights, Current Status and Future Work -- IWACO'16
   ([paper](http://2016.ecoop.org/event/iwaco-2016-first-paper-kappa-insights-current-status-and-future-work){:target="blank"} | [slides](slides/IWACO16.pdf){:target="blank"})
+* [2015] Refined Ownership: Fine-grained controlled internal sharing -- SFM'15
+  ([paper](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-266673){:target="blank"})
 * [2015] Parallel Objects for Multicores: A Glimpse at the Parallel Language Encore -- SFM'15
   ([paper](https://www.it.uu.se/katalog/stebr742/Encore-Glimpse/Encore_Glimpse_Preprint.pdf){:target="blank"})
 * [2014] Capable: Capabilities for Scalability -- IWACO'14
@@ -90,7 +93,11 @@ programming and algorithms.
 Students
 --------
 
-I have supervised the following bachelor projects:
+I am currently supervising the following master thesis projects:
+
+* Gustav Lundin -- Array Capabilities for Encore
+
+I have supervised the following bachelor thesis projects:
 
 * Gustav Lundin -- [Pattern Matching in Encore](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-294513){:target="blank"}
 * Christian Törnqvist -- Finding Patterns in Lock-Free Algorithms (link forthcoming)
