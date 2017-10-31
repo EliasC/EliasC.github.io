@@ -19,6 +19,10 @@ my work on Kappa [](TODO: Page of its own).
 Publications
 ------------
 
+* [2017] Reference Capabilities for Concurrency & Scalability: an Experience Report -- OCAP'17
+  (video forthcoming)
+* [2017] Mastery Learning-Like Teaching with Achievements -- SPLASH-E'17
+  ([paper](https://2017.splashcon.org/event/splash-2017-splash-e-cer-mastery-learning-like-teaching-with-achievements))
 * [2017] Relaxed Linear References for Lock-Free Data Structures -- ECOOP'17
   ([paper and talk](http://2017.ecoop.org/event/ecoop-2017-papers-relaxed-linear-references-for-lock-free-programming){:target="blank"} | [slides](slides/ECOOP17.pdf){:target="blank"})
 * [2017] Actors without Borders: Amnesty for Imprisoned State -- PLACES'17
