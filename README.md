@@ -105,8 +105,8 @@ I have supervised the following bachelor thesis projects:
 
 * Gustav Lundin -- [Pattern Matching in Encore](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-294513){:target="blank"}
 * Christian Törnqvist -- [Finding Patterns in Lock-Free Algorithms](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:1136791)
-* Joel Wallin -- Implementing Safe Sharing Features in Encore (link forthcoming)
-* Jonas Olander -- Separate Compiling for Encore (link forthcoming)
+* Joel Wallin -- [Implementing Safe Sharing Features in Encore](theses/thesis-joelwallin.pdf)
+* Jonas Olander -- [Separate Compiling for Encore](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-330697)
 
 
 Personal
