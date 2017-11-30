@@ -19,7 +19,7 @@ my work on Kappa [](TODO: Page of its own).
 Publications and Presentations
 ------------------------------
 
-* [2017] OOlong: An Extensible Concurrent Object Calculus -- OOPS@SAC'17
+* [2017] OOlong: An Extensible Concurrent Object Calculus -- OOPPS@SAC'17
   (Paper forthcoming)
 * [2017] Reference Capabilities for Concurrency & Scalability: an Experience Report -- OCAP'17
   ([slides](slides/OCAP17.pdf) | video forthcoming)
