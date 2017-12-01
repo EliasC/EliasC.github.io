@@ -20,7 +20,7 @@ Publications and Presentations
 ------------------------------
 
 * [2017] OOlong: An Extensible Concurrent Object Calculus -- OOPPS@SAC'17
-  (Paper forthcoming)
+  ([preprint](papers/sac18.pdf) | [artifact](https://github.com/EliasC/oolong))
 * [2017] Reference Capabilities for Concurrency & Scalability: an Experience Report -- OCAP'17
   ([slides](slides/OCAP17.pdf) | video forthcoming)
 * [2017] Mastery Learning-Like Teaching with Achievements -- SPLASH-E'17
