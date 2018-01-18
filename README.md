@@ -19,6 +19,8 @@ my work on Kappa [](TODO: Page of its own).
 Publications and Presentations
 ------------------------------
 
+* [2018] Capability-Based Type Systems for Concurrency Control -- PhD Thesis
+  ([extensive summary](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-336021))
 * [2017] OOlong: An Extensible Concurrent Object Calculus -- OOPPS@SAC'17
   ([preprint](papers/sac18.pdf) | [artifact](https://github.com/EliasC/oolong))
 * [2017] Reference Capabilities for Concurrency & Scalability: an Experience Report -- OCAP'17
