@@ -58,6 +58,10 @@ Publications and Presentations
 Community Service
 -----------------
 
+* [2018]
+  [ECOOP'18 Artifact Evaluation Committee](http://2018.ecoop.org/track/ecoop-2018-Artifacts){:target="blank"}
+* [2018]
+  [PLDI'18 Artifact Evaluation Committee](https://pldi18.sigplan.org/track/pldi-2018-PLDI-Research-Artifacts){:target="blank"}
 * [2017]
   [OOPSLA'17 Artifact Evaluation Committee](http://2017.splashcon.org/track/splash-2017-OOPSLA-Artifacts){:target="blank"}
 * [2017]
