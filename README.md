@@ -1,12 +1,18 @@
 Research
 ========
 
-I am a PhD student at [Uppsala University](http://www.it.uu.se){:target="blank"}.
-My advisor is [Tobias Wrigstad](http://www.wrigstad.com){:target="blank"} and my
-co-advisor is [Dave Clarke](http://supercooldave.github.io/){:target="blank"}. I do
+I am a post-doc researcher at [Uppsala University](http://www.it.uu.se){:target="blank"}.
+I did my PhD with [Tobias Wrigstad](http://www.wrigstad.com){:target="blank"} and
+[Dave Clarke](http://supercooldave.github.io/){:target="blank"}. I do
 research on programming languages, in particular type systems for
 controlling aliasing and preventing data-races in concurrent and
 parallel programs.
+
+From April to July, I will be doing an internship at Microsoft
+Research in Cambridge, working together with [Matthew
+Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/){:target="blank"}
+and [Sylvan
+Clebsch](https://www.microsoft.com/en-us/research/people/syclebsc/){:target="blank"}.
 
 I am one of the main contributors
 to [Encore](https://encore-lang.github.io/){:target="blank"}, a
@@ -118,7 +124,7 @@ Personal
 
 I spend a lot of my free time on listening to and creating music.
 
-* Since 2008 I am the conductor of
+* From 2008 to 2017 I was the conductor of
   [Kalmar Nation's Choir](http://kalmarnation.se/koren){:target="blank"}
   in Uppsala.
   [Here](https://www.youtube.com/watch?v=cgrlqO8PqJs){:target="blank"}
