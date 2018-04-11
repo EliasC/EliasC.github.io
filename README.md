@@ -8,7 +8,7 @@ research on programming languages, in particular type systems for
 controlling aliasing and preventing data-races in concurrent and
 parallel programs.
 
-From April to July, I will be doing an internship at Microsoft
+From April to July 2018, I will be doing an internship at Microsoft
 Research in Cambridge, working together with [Matthew
 Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/){:target="blank"}
 and [Sylvan
@@ -83,7 +83,7 @@ Community Service
 Colleagues
 ----------
 
-At Uppsala University I have the privilege of working in the same
+At Uppsala University I have had the privilege of working in the same
 group as the following PhD students:
 
 * [Stephan Brandauer](http://stbr.me){:target="blank"}
@@ -95,7 +95,7 @@ group as the following PhD students:
 Teaching
 ========
 
-I am the main teaching assistant for a second year 20 ECTS credits
+I was the main teaching assistant for a second year 20 ECTS credits
 course called Imperative and Object-Oriented Programming
 Methodology, given by Tobias Wrigstad. In 2017, Tobias was voted
 teacher of the year by the CS and IT students! [](TODO: Add more info)
@@ -111,9 +111,10 @@ programming and algorithms.
 Students
 --------
 
-I am currently supervising the following master thesis projects:
+I am currently supervising the following bachelor thesis projects:
 
-* Gustav Lundin -- Array Capabilities for Encore
+* Alexander Silferberg-Örtegren -- Adding Support for Atomic Operations in Encore
+* Tommy Vågbratt -- Parasitic Objects
 
 I have supervised the following bachelor thesis projects:
 
