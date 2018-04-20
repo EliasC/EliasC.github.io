@@ -28,7 +28,7 @@ Publications and Presentations
 * [2018] Capability-Based Type Systems for Concurrency Control -- PhD Thesis
   ([extensive summary](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-336021))
 * [2017] OOlong: An Extensible Concurrent Object Calculus -- OOPPS@SAC'17
-  ([preprint](papers/sac18.pdf) | [artifact](https://github.com/EliasC/oolong))
+  ([preprint](papers/sac18.pdf) | [slides](slides/SAC18.pdf) | [artifact](https://github.com/EliasC/oolong))
 * [2017] Reference Capabilities for Concurrency & Scalability: an Experience Report -- OCAP'17
   ([slides](slides/OCAP17.pdf) | video forthcoming)
 * [2017] Mastery Learning-Like Teaching with Achievements -- SPLASH-E'17
