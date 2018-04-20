@@ -11,8 +11,7 @@ parallel programs.
 From April to July 2018, I will be doing an internship at Microsoft
 Research in Cambridge, working together with [Matthew
 Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/){:target="blank"}
-and [Sylvan
-Clebsch](https://www.microsoft.com/en-us/research/people/syclebsc/){:target="blank"}.
+on compiler based techniques for side-channel mitigation.
 
 I am one of the main contributors
 to [Encore](https://encore-lang.github.io/){:target="blank"}, a
