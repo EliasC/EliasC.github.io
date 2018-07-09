@@ -8,10 +8,13 @@ research on programming languages, in particular type systems for
 controlling aliasing and preventing data-races in concurrent and
 parallel programs.
 
-From April to July 2018, I will be doing an internship at Microsoft
+From April to July in 2018, I did an internship at Microsoft
 Research in Cambridge, working together with [Matthew
 Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/){:target="blank"}
-on compiler based techniques for side-channel mitigation.
+and [David
+Chisnall](https://www.cl.cam.ac.uk/~dc552/){:target="blank"} on
+compiler-based mitigation of the
+[Spectre](https://meltdownattack.com/) attacks.
 
 I am one of the main contributors
 to [Encore](https://encore-lang.github.io/){:target="blank"}, a
