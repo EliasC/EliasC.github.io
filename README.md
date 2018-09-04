@@ -33,9 +33,15 @@ my work on Kappa [](TODO: Page of its own).
 
 Publications and Presentations
 ------------------------------
+* [2018] Cflat: A New Modular Approach to Implementing Efficient
+  and Tunable Collections -- Onward!
+  ([paper](http://stbr.me/cflat))
 * [2018] Bestow and Atomic: Concurrent Programming using
   Isolation, Delegation and Grouping -- JLAMP
   ([paper](https://authors.elsevier.com/a/1XKyV8MrKMFw0Q))
+* [2018] Parallel programming with arrays in Kappa --
+  ARRAY@PLDI'18
+  ([paper](https://dl.acm.org/citation.cfm?id=3219757)
 * [2018] Forward to a Promising Future -- COORDINATION'18 (Best Paper Award)
   ([paper](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1209721&dswid=-2080))
 * [2018] Capability-Based Type Systems for Concurrency Control -- PhD Thesis
