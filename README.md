@@ -132,11 +132,6 @@ programming and algorithms.
 Students
 --------
 
-I am currently supervising the following bachelor thesis projects:
-
-* Alexander Silferberg-Örtegren -- Adding Support for Atomic Operations in Encore
-* Tommy Vågbratt -- Parasitic Objects
-
 I have supervised the following bachelor thesis projects:
 
 * Gustav Lundin -- [Pattern Matching in Encore](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-294513){:target="blank"}
