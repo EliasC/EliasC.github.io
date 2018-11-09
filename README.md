@@ -34,7 +34,7 @@ my work on Kappa [](TODO: Page of its own).
 Publications and Presentations
 ------------------------------
 * [2018] Attached and Detached Closures in Actors --
-  AGERE@SPLASH'18 ([paper](papers/agere18.pdf))
+  AGERE@SPLASH'18 ([paper](papers/agere18.pdf) | [slides](slides/agere18.pdf))
 * [2018] Cflat: A New Modular Approach to Implementing Efficient
   and Tunable Collections -- Onward!
   ([paper](http://stbr.me/cflat))
