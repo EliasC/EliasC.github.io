@@ -81,6 +81,8 @@ Publications and Presentations
 Community Service
 -----------------
 
+* [2019] [LCTES'19 Artifact Evaluation Committee](https://conf.researchr.org/committee/LCTES-2019/lctes-2019-papers-artifact-evaluation-committee){:target="blank"}
+* [2019] [PLDI'19 Artifact Evaluation Committee](https://pldi19.sigplan.org/track/pldi-2019-PLDI-Research-Artifacts){:target="blank"}
 * [2018]
   [ECOOP'18 Artifact Evaluation Committee](http://2018.ecoop.org/track/ecoop-2018-Artifacts){:target="blank"}
 * [2018]
