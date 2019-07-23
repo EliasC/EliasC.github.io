@@ -84,6 +84,7 @@ Publications and Presentations
 Community Service
 -----------------
 
+* [2019] [AGERE'19](https://2019.splashcon.org/home/agere-2019){:target="blank"}, member of the organizing committee.
 * [2019] [LCTES'19 Artifact Evaluation Committee](https://conf.researchr.org/committee/LCTES-2019/lctes-2019-papers-artifact-evaluation-committee){:target="blank"}
 * [2019] [PLDI'19 Artifact Evaluation Committee](https://pldi19.sigplan.org/track/pldi-2019-PLDI-Research-Artifacts){:target="blank"}
 * [2018]
