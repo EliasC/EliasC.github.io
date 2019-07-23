@@ -33,8 +33,11 @@ my work on Kappa [](TODO: Page of its own).
 
 Publications and Presentations
 ------------------------------
-* [2018] ACM SIGAPP -- OOlong: a concurrent object calculus for
-  extensibility and reuse ([paper](papers/oolong.pdf) | [artifact](https://github.com/EliasC/oolong))
+* [2020] Reference Capabilities for Safe Parallel Array
+  Programming -- Programming'20 (Paper upcoming)
+* [2018] OOlong: a concurrent object calculus for extensibility
+  and reuse -- ACM SIGAPP ([paper](papers/oolong.pdf) |
+  [artifact](https://github.com/EliasC/oolong))
 * [2018] Attached and Detached Closures in Actors --
   AGERE@SPLASH'18 ([paper](papers/agere18.pdf) | [slides](slides/agere18.pdf))
 * [2018] Cflat: A New Modular Approach to Implementing Efficient
