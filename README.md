@@ -5,7 +5,11 @@ I am a post-doc researcher in [David
 Broman](https://www.kth.se/profile/dbro){:target="blank"}'s
 [group](https://www.kth.se/scs/mcs){:target="blank"} at
 [KTH](http://www.kth.se){:target="blank"}, working on
-heterogeneous model compilers and semantics.
+heterogeneous model compilers and semantics. I am currently
+involved in two projects; one relating to [composition of language
+semantics](https://people.kth.se/~dbro/hmc.html), and one relating
+to [full-stack verification of programs synthesized from timed
+automata](https://people.kth.se/~dbro/projects.html).
 
 I did my PhD with [Tobias
 Wrigstad](http://www.wrigstad.com){:target="blank"} and [Dave
