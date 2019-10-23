@@ -40,7 +40,7 @@ Publications and Presentations
 * [2020] Reference Capabilities for Safe Parallel Array
   Programming -- Programming'20 (Paper upcoming)
 * [2019] Developing a Monadic Type Checker for an Object-Oriented
-  Language: An Experience Report -- SLE'19
+  Language: An Experience Report -- SLE'19 (Distinguished Artifact Award)
   ([preprint](papers/sle19.pdf)|[artifact](https://github.com/parapluu/monadic-typechecker){:target="blank"})
 * [2019] Progress Report: Exploring API Design for Capabilities
     for Programming with Arrays -- ICOOOLPS'19 ([paper (coming soon)]())
