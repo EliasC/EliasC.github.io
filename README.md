@@ -133,13 +133,18 @@ group as the following PhD students:
 Teaching
 ========
 
-I was the main teaching assistant for a second year 20 ECTS credits
-course called Imperative and Object-Oriented Programming
-Methodology, given by Tobias Wrigstad. In 2017, Tobias was voted
-teacher of the year by the CS and IT students! [](TODO: Add more info)
+During 2019 I shared the lectures of a 7.5 ECTS credits course at
+KTH called Computer Hardware Engineering, given by David Broman.
+
+I was the main teaching assistant for a second year 20 ECTS
+credits course at Uppsala University called Imperative and
+Object-Oriented Programming Methodology, given by Tobias Wrigstad.
+In 2017, Tobias was voted teacher of the year by the CS and IT
+students! [](TODO: Add more info)
 
 During 2016 and 2017 I shared the lectures of another 20 ECTS
-credits course called Program Design and Data Structures.
+credits course at Uppsala University called Program Design and
+Data Structures.
 
 During my undergraduate studies I worked as a TA and certified
 Supplemental Instructions mentor for several courses on functional
@@ -186,4 +191,4 @@ I spend a lot of my free time on listening to and creating music.
   [Dunia](https://open.spotify.com/album/0Sn5iIamcssFcc6EdZvnzi){:target="blank"}
   from 2013 is on Spotify! I wrote and arranged the songs Gånglåt
   från Gottsunda ("Walking Song from Gottsunda"), Cykeltjuven
-  ("The Bicycle Thief") and Kometen ("The comet").
+  ("The Bicycle Thief") and Kometen ("The Comet").
