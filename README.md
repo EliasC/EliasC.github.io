@@ -1,7 +1,12 @@
 Research
 ========
 
-I am a post-doc researcher in [David
+I am an assistant professor at Uppsala University, working on
+programming languages, semantics and type systems. (if this
+paragraph looks short, it is because I just started. More info
+will be added soon)
+
+Before that I was a post-doc researcher in [David
 Broman](https://www.kth.se/profile/dbro){:target="blank"}'s
 [group](https://www.kth.se/scs/mcs){:target="blank"} at
 [KTH](http://www.kth.se){:target="blank"}, working on
@@ -15,9 +20,8 @@ I did my PhD with [Tobias
 Wrigstad](http://www.wrigstad.com){:target="blank"} and [Dave
 Clarke](http://supercooldave.github.io/){:target="blank"} at
 [Uppsala University](http://www.it.uu.se){:target="blank"}. There,
-I did research on programming languages, in particular type
-systems for controlling aliasing and preventing data-races in
-concurrent and parallel programs.
+I did research on type systems for controlling aliasing and
+preventing data-races in concurrent and parallel programs.
 
 From April to July in 2018, I did an internship at Microsoft
 Research in Cambridge, working together with [Matthew
@@ -35,15 +39,20 @@ my work on Kappa [](TODO: Page of its own).
 
 [](TODO: Research interests + link to summary of research (Kappa page?))
 
+[](TODO: List co-authors for publications)
+
 Publications and Presentations
 ------------------------------
+* [2021] Resolvable ambiguity: principled resolution of
+  syntactically ambiguous programs -- CC'21
+  ([paper](https://dl.acm.org/doi/abs/10.1145/3446804.3446846?casa_token=0jwoP6VMYywAAAAA:B05qIyoBYP-80vRFKWZ2ucdYQ0zSwVkhEw6te17p4cC5Wrla9k2XGcdxCAdLCUG2bggHZcERwnmQ))
 * [2020] Reference Capabilities for Safe Parallel Array
-  Programming -- Programming'20 (Paper upcoming)
+  Programming -- Programming'20 ([paper](https://programming-journal.org/2020/4/1/))
 * [2019] Developing a Monadic Type Checker for an Object-Oriented
   Language: An Experience Report -- SLE'19 (Distinguished Artifact Award)
   ([preprint](papers/sle19.pdf)|[artifact](https://github.com/parapluu/monadic-typechecker){:target="blank"})
 * [2019] Progress Report: Exploring API Design for Capabilities
-    for Programming with Arrays -- ICOOOLPS'19 ([paper (coming soon)]())
+    for Programming with Arrays -- ICOOOLPS'19 ([paper](http://kth.diva-portal.org/smash/record.jsf?dswid=-481&faces-redirect=true&language=en&searchType=SIMPLE&query=&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&pid=diva2%3A1349621%22&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all))
 * [2018] OOlong: a concurrent object calculus for extensibility
   and reuse -- ACM SIGAPP ([paper](papers/oolong.pdf) |
   [artifact](https://github.com/EliasC/oolong))
@@ -93,6 +102,11 @@ Publications and Presentations
 Community Service
 -----------------
 
+* [2021] [SLE'21](https://conf.researchr.org/home/sle-2021){:target="blank"}, artifact evaluation co-chair
+* [2021] [AGERE'21](https://2021.splashcon.org/home/agere-2021){:target="blank"}, member of the organizing committee.
+* [2020] [AGERE'20](https://2020.splashcon.org/home/agere-2020){:target="blank"}, member of the organizing committee.
+* [2020] [OOPSLA'20 Artifact Evaluation Committee](https://2020.splashcon.org/track/splash-2020-Artifacts){:target="blank"}.
+* [2020] [PLDI'21 Artifact Evaluation Committee](https://pldi20.sigplan.org/track/pldi-2020-PLDI-Research-Artifacts){:target="blank"}.
 * [2019] [AGERE'19](https://2019.splashcon.org/home/agere-2019){:target="blank"}, member of the organizing committee.
 * [2019] [LCTES'19 Artifact Evaluation Committee](https://conf.researchr.org/committee/LCTES-2019/lctes-2019-papers-artifact-evaluation-committee){:target="blank"}
 * [2019] [PLDI'19 Artifact Evaluation Committee](https://pldi19.sigplan.org/track/pldi-2019-PLDI-Research-Artifacts){:target="blank"}
@@ -118,29 +132,20 @@ Community Service
 * [2014] ECOOP'14, local student aid
 
 
-Colleagues
-----------
-
-At Uppsala University I have had the privilege of working in the same
-group as the following PhD students:
-
-* [Stephan Brandauer](http://stbr.me){:target="blank"}
-* [Albert Mingkun Yang](http://albertnetymk.github.io/){:target="blank"}
-* [Kiko Fernandez](http://www.it.uu.se/katalog/frafe664){:target="blank"}
-* [Huu-Phuc Vo](http://www.it.uu.se/katalog/voph710){:target="blank"}
-
-
 Teaching
 ========
+
+During 2021 I will be the main teacher of a second year 20 ECTS
+credits course at Uppsala University called Imperative and
+Object-Oriented Programming Methodology (or IOOPM for short).
 
 During 2019 I shared the lectures of a 7.5 ECTS credits course at
 KTH called Computer Hardware Engineering, given by David Broman.
 
-I was the main teaching assistant for a second year 20 ECTS
-credits course at Uppsala University called Imperative and
-Object-Oriented Programming Methodology, given by Tobias Wrigstad.
-In 2017, Tobias was voted teacher of the year by the CS and IT
-students! [](TODO: Add more info)
+During my PhD I was the main teaching assistant for IOOPM (see
+above), given by Tobias Wrigstad. In 2017, Tobias was voted
+teacher of the year by the CS and IT students! [](TODO: Add more
+info)
 
 During 2016 and 2017 I shared the lectures of another 20 ECTS
 credits course at Uppsala University called Program Design and
@@ -153,6 +158,10 @@ programming and algorithms.
 
 Students
 --------
+
+I am currently co-supervising the following PhD students:
+
+* Beatrice Åkerblom
 
 I am currently supervising the following master thesis projects:
 
@@ -178,11 +187,13 @@ I spend a lot of my free time on listening to and creating music.
 * Since 2015 I am a singer in
   [Uppsala Vokalensemble](http://uppsalavokalensemble.se/){:target="blank"}.
 * I also like to write and arrange choir music.
+  [Here](https://www.youtube.com/watch?v=L0ut0ADUdp8) is a
+  recording of my arrangement of the traditional Swedish hymn "Den
+  blomstertid nu kommer". You can also [buy the arrangement](https://www.gehrmans.se/butik/kor/blomstertid-13893)!
   [Here](https://www.youtube.com/watch?v=l2gzhjwBczI){:target="blank"}
-  is a recording of my setting of Alfred Tennyson's Now Sleeps
-  the Crimson Petal, performed by the women's choir
-  [Discordia](http://udkdiscordia.se/){:target="blank"}.
-  [](TODO: Another page)
+  is a recording of my setting of Alfred Tennyson's Now Sleeps the
+  Crimson Petal, performed by the women's choir
+  [Discordia](http://udkdiscordia.se/){:target="blank"}. [](TODO: Another page)
 * I play the electric and upright
   bass. [Here](https://www.youtube.com/watch?v=VPzk-28ZiYc) is a
   recording I made as a Christmas present for the friend who
