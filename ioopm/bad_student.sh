@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 if [[ $1 =~ ^[a-z]{4}[0-9]{4}$ ]]
 then
   FIRST=${1:0:2}
