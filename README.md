@@ -2,9 +2,8 @@ Research
 ========
 
 I am an assistant professor at Uppsala University, working on
-programming languages, semantics and type systems. (if this
-paragraph looks short, it is because I just started. More info
-will be added soon)
+programming languages, semantics and type systems. (More info will
+be added soon)
 
 Before that I was a post-doc researcher in [David
 Broman](https://www.kth.se/profile/dbro){:target="blank"}'s
@@ -135,7 +134,7 @@ Community Service
 Teaching
 ========
 
-During 2021 I will be the main teacher of a second year 20 ECTS
+During 2021 I was the main teacher of a second year 20 ECTS
 credits course at Uppsala University called Imperative and
 Object-Oriented Programming Methodology (or IOOPM for short).
 
@@ -161,9 +160,15 @@ Students
 
 I am currently co-supervising the following PhD students:
 
-* Beatrice Åkerblom
+* Ellen Arvidsson (since 2021)
 
-I am currently supervising the following master thesis projects:
+* Beatrice Åkerblom (since 2019)
+
+I am currently supervising the following bachelor thesis projects:
+
+* Emma Angetun -- Extending the Object Calculus OOlong
+
+I have supervised the following master thesis projects:
 
 * Alfrida Mattisson -- Automatically Choosing Implementations of Abstract Data Types
 
