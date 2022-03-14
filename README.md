@@ -101,6 +101,7 @@ Publications and Presentations
 Community Service
 -----------------
 
+* [2021] [SPLASH'21](https://2021.splashcon.org/track/splash-2021-SRC){:target="blank"}, student research competition judge
 * [2021] [SLE'21](https://conf.researchr.org/home/sle-2021){:target="blank"}, artifact evaluation co-chair
 * [2021] [AGERE'21](https://2021.splashcon.org/home/agere-2021){:target="blank"}, member of the organizing committee.
 * [2020] [AGERE'20](https://2020.splashcon.org/home/agere-2020){:target="blank"}, member of the organizing committee.
