@@ -2,10 +2,11 @@ Research
 ========
 
 I am an assistant professor at Uppsala University, working on
-programming languages, semantics and type systems. (More info will
-be added soon)
+programming languages, semantics and type systems. I am involved
+in the [Verona project](https://www.microsoft.com/en-us/research/project/project-verona/)
+together with Microsoft Research.
 
-Before that I was a post-doc researcher in [David
+I used to be a post-doc researcher in [David
 Broman](https://www.kth.se/profile/dbro){:target="blank"}'s
 [group](https://www.kth.se/scs/mcs){:target="blank"} at
 [KTH](http://www.kth.se){:target="blank"}, working on
@@ -30,11 +31,13 @@ Chisnall](https://www.cl.cam.ac.uk/~dc552/){:target="blank"} on
 compiler-based mitigation of the
 [Spectre](https://meltdownattack.com/) attacks.
 
-I am one of the main contributors
-to [Encore](https://encore-lang.github.io/){:target="blank"}, a
+I was one of the main contributors to
+[Encore](https://encore-lang.github.io/){:target="blank"}, a
 highly concurrent object-oriented programming language. Encore's
 type system guarantees the absence of data-races and is based on
 my work on Kappa [](TODO: Page of its own).
+
+I am always interested in discussing collaboration!
 
 [](TODO: Research interests + link to summary of research (Kappa page?))
 
@@ -42,8 +45,10 @@ my work on Kappa [](TODO: Page of its own).
 
 Publications and Presentations
 ------------------------------
-* [2021] Resolvable ambiguity: principled resolution of
-  syntactically ambiguous programs -- CC'21
+* [2023] Statically Resolvable Ambiguity -- POPL'23 (Conditionally
+  accepted)
+* [2021] Resolvable Ambiguity: Principled Resolution of
+  Syntactically Ambiguous Programs -- CC'21
   ([paper](https://dl.acm.org/doi/abs/10.1145/3446804.3446846?casa_token=0jwoP6VMYywAAAAA:B05qIyoBYP-80vRFKWZ2ucdYQ0zSwVkhEw6te17p4cC5Wrla9k2XGcdxCAdLCUG2bggHZcERwnmQ))
 * [2020] Reference Capabilities for Safe Parallel Array
   Programming -- Programming'20 ([paper](https://programming-journal.org/2020/4/1/))
@@ -101,6 +106,7 @@ Publications and Presentations
 Community Service
 -----------------
 
+* [2022] [SCP](https://www.sciencedirect.com/journal/science-of-computer-programming), reviewing
 * [2021] [SPLASH'21](https://2021.splashcon.org/track/splash-2021-SRC){:target="blank"}, student research competition judge
 * [2021] [SLE'21](https://conf.researchr.org/home/sle-2021){:target="blank"}, artifact evaluation co-chair
 * [2021] [AGERE'21](https://2021.splashcon.org/home/agere-2021){:target="blank"}, member of the organizing committee.
@@ -135,25 +141,18 @@ Community Service
 Teaching
 ========
 
-During 2021 I was the main teacher of a second year 20 ECTS
-credits course at Uppsala University called Imperative and
-Object-Oriented Programming Methodology (or IOOPM for short).
+Since 2021 I am the main teacher of a second year 20 ECTS credits
+course at Uppsala University called Imperative and Object-Oriented
+Programming Methodology (or IOOPM for short). In 2021 I was the
+proud recipient of the Union of Engineering and Science Student's
+Teaching Award!
 
-During 2019 I shared the lectures of a 7.5 ECTS credits course at
-KTH called Computer Hardware Engineering, given by David Broman.
+Previous courses taught include:
 
-During my PhD I was the main teaching assistant for IOOPM (see
-above), given by Tobias Wrigstad. In 2017, Tobias was voted
-teacher of the year by the CS and IT students! [](TODO: Add more
-info)
-
-During 2016 and 2017 I shared the lectures of another 20 ECTS
-credits course at Uppsala University called Program Design and
-Data Structures.
-
-During my undergraduate studies I worked as a TA and certified
-Supplemental Instructions mentor for several courses on functional
-programming and algorithms.
+* Computer Hardware Engineering (7.5 ECTS, KTH), 2019
+* Program Design and Data Structures (20 ECTS, UU), 2016-2017
+* Imperative and Object-Oriented Programming Methodology (20 ECTS,
+  UU), 2012-2018
 
 
 Students
@@ -162,7 +161,7 @@ Students
 I am currently co-supervising the following PhD students:
 
 * Ellen Arvidsson (since 2021)
-
+* Viktor Palmkvist (since 2021)
 * Beatrice Åkerblom (since 2019)
 
 I am currently supervising the following bachelor thesis projects:
