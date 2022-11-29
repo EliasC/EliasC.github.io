@@ -106,6 +106,7 @@ Publications and Presentations
 Community Service
 -----------------
 
+* [2023] [PLACES'23](https://places-workshop.github.io/2023/), program committee
 * [2022] [SCP](https://www.sciencedirect.com/journal/science-of-computer-programming), reviewing
 * [2021] [SPLASH'21](https://2021.splashcon.org/track/splash-2021-SRC){:target="blank"}, student research competition judge
 * [2021] [SLE'21](https://conf.researchr.org/home/sle-2021){:target="blank"}, artifact evaluation co-chair
