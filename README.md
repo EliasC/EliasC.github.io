@@ -46,7 +46,7 @@ I am always interested in discussing collaboration!
 Publications and Presentations
 ------------------------------
 * [2023] Statically Resolvable Ambiguity -- POPL'23
-  (paper and artifact coming soon)
+  ([paper](https://dl.acm.org/doi/10.1145/3571251)|[artifact](https://zenodo.org/record/7231654#.Y8YC9OLMLkQ))
 * [2021] Resolvable Ambiguity: Principled Resolution of
   Syntactically Ambiguous Programs -- CC'21
   ([paper](https://dl.acm.org/doi/abs/10.1145/3446804.3446846?casa_token=0jwoP6VMYywAAAAA:B05qIyoBYP-80vRFKWZ2ucdYQ0zSwVkhEw6te17p4cC5Wrla9k2XGcdxCAdLCUG2bggHZcERwnmQ))
