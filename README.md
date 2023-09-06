@@ -4,7 +4,7 @@ Research
 I am an assistant professor at Uppsala University, working on
 programming languages, semantics and type systems. I am involved
 in the [Verona project](https://www.microsoft.com/en-us/research/project/project-verona/)
-together with Microsoft Research.
+together with Azure Research.
 
 I used to be a post-doc researcher in [David
 Broman](https://www.kth.se/profile/dbro){:target="blank"}'s
@@ -45,6 +45,8 @@ I am always interested in discussing collaboration!
 
 Publications and Presentations
 ------------------------------
+* [2023] Reference Capabilities for Flexible Memory Management -- OOPSLA'23
+  (Paper to be posted)
 * [2023] Statically Resolvable Ambiguity -- POPL'23
   ([paper](https://dl.acm.org/doi/10.1145/3571251)|[artifact](https://zenodo.org/record/7260815))
 * [2021] Resolvable Ambiguity: Principled Resolution of
@@ -106,6 +108,7 @@ Publications and Presentations
 Community Service
 -----------------
 
+* [2023] [ICOOOLPS'23](https://2023.issta.org/track/ICOOOLPS-2023), program committee
 * [2023] [VIMPL'23](https://2023.programming-conference.org/home/vimpl-2023), program committee
 * [2023] [PLACES'23](https://places-workshop.github.io/2023/), program committee
 * [2022] [SCP](https://www.sciencedirect.com/journal/science-of-computer-programming), reviewing
