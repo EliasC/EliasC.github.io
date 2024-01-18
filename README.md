@@ -46,7 +46,8 @@ I am always interested in discussing collaboration!
 Publications and Presentations
 ------------------------------
 * [2023] Reference Capabilities for Flexible Memory Management -- OOPSLA'23
-  (Paper to be posted)
+  ([paper](https://dl.acm.org/doi/10.1145/3622846))
+* [2023] Encore: Coda -- Springer Nature (Paper to be posted)
 * [2023] Statically Resolvable Ambiguity -- POPL'23
   ([paper](https://dl.acm.org/doi/10.1145/3571251)|[artifact](https://zenodo.org/record/7260815))
 * [2021] Resolvable Ambiguity: Principled Resolution of
