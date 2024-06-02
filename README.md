@@ -23,8 +23,8 @@ Clarke](http://supercooldave.github.io/){:target="blank"} at
 I did research on type systems for controlling aliasing and
 preventing data-races in concurrent and parallel programs.
 
-From April to July in 2018, I did an internship at Microsoft
-Research in Cambridge, working together with [Matthew
+In 2018, I did an internship at Microsoft Research in Cambridge,
+working together with [Matthew
 Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/){:target="blank"}
 and [David
 Chisnall](https://www.cl.cam.ac.uk/~dc552/){:target="blank"} on
@@ -45,6 +45,8 @@ I am always interested in discussing collaboration!
 
 Publications and Presentations
 ------------------------------
+* [2024] Arrays in Practice: An Empirical Study of Array Access
+  Patterns on the JVM -- Programming'24 ([paper](https://programming-journal.org/2024/8/14/))
 * [2023] Reference Capabilities for Flexible Memory Management -- OOPSLA'23
   ([paper](https://dl.acm.org/doi/10.1145/3622846))
 * [2023] Encore: Coda -- Springer Nature (Paper to be posted)
