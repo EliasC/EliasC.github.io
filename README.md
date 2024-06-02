@@ -158,6 +158,9 @@ Programming Methodology (or IOOPM for short). In 2021 I was the
 proud recipient of the Union of Engineering and Science Student's
 Teaching Award!
 
+Since 2023 I also teach a 5 ECTS credit course on Programming
+Language Semantics.
+
 Previous courses taught include:
 
 * Computer Hardware Engineering (7.5 ECTS, KTH), 2019
@@ -169,6 +172,10 @@ Previous courses taught include:
 Students
 --------
 
+I am the main supervisor of the following PhD students:
+
+* Matilda Blomqvist (since 2023)
+
 I am currently co-supervising the following PhD students:
 
 * Ellen Arvidsson (since 2021)
@@ -178,6 +185,7 @@ I am currently co-supervising the following PhD students:
 I am currently supervising the following bachelor thesis projects:
 
 * Emma Angetun -- Extending the Object Calculus OOlong
+* Linus Waehler -- Can ChatGPT Achieve Mastery? Using ChatCPT to Pass a Second Year University Programming Course
 
 I have supervised the following master thesis projects:
 
@@ -189,6 +197,7 @@ I have supervised the following bachelor thesis projects:
 * Christian Törnqvist -- [Finding Patterns in Lock-Free Algorithms](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:1136791)
 * Joel Wallin -- [Implementing Safe Sharing Features in Encore](theses/thesis-joelwallin.pdf)
 * Jonas Olander -- [Separate Compiling for Encore](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-330697)
+* Tage Johansson -- A Strongly Typed Shell with Full Control over Side Effects
 
 Personal
 ========
