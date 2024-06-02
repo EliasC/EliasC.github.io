@@ -111,8 +111,11 @@ Publications and Presentations
 Community Service
 -----------------
 
+* [2024] [SLE'24](https://2024.splashcon.org/track/sle-2024), program committee
+* [2024] [IWACO'24](https://2024.splashcon.org/home/iwaco-2024), program committee
 * [2023] [ICOOOLPS'23](https://2023.issta.org/track/ICOOOLPS-2023), program committee
 * [2023] [VIMPL'23](https://2023.programming-conference.org/home/vimpl-2023), program committee
+* [2023] [IWACO'23](https://2023.splashcon.org/home/iwaco-2023), program committee
 * [2023] [PLACES'23](https://places-workshop.github.io/2023/), program committee
 * [2022] [SCP](https://www.sciencedirect.com/journal/science-of-computer-programming), reviewing
 * [2021] [SPLASH'21](https://2021.splashcon.org/track/splash-2021-SRC){:target="blank"}, student research competition judge
