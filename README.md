@@ -45,6 +45,7 @@ I am always interested in discussing collaboration!
 
 Publications and Presentations
 ------------------------------
+* [2024] Trieste: A C++ DSL for Flexible Tree Rewriting -- SLE'24 ([paper](papers/sle24.pdf))
 * [2024] Arrays in Practice: An Empirical Study of Array Access
   Patterns on the JVM -- Programming'24 ([paper](https://programming-journal.org/2024/8/14/))
 * [2023] Reference Capabilities for Flexible Memory Management -- OOPSLA'23
@@ -176,10 +177,10 @@ I am the main supervisor of the following PhD students:
 
 * Matilda Blomqvist (since 2023)
 
-I am currently co-supervising the following PhD students:
+I have co-supervised the following PhD students:
 
 * Ellen Arvidsson (since 2021)
-* Viktor Palmkvist (since 2021)
+* Viktor Palmkvist (since 2021, graduated 2024)
 * Beatrice Åkerblom (since 2019)
 
 I am currently supervising the following bachelor thesis projects:
