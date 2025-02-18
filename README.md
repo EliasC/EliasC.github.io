@@ -111,7 +111,10 @@ Publications and Presentations
 
 Community Service
 -----------------
-
+* [2025] [MoreVMs'25](https://2025.programming-conference.org/home/MoreVMs-2025), reviewing
+* [2025] [GulFest](https://2025.programming-conference.org/home/MoreVMs-2025), reviewing
+* [2024] [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming), reviewing
+* [2024] [TCPS](https://dl.acm.org/journal/tcps), reviewing
 * [2024] [SLE'24](https://2024.splashcon.org/track/sle-2024), program committee
 * [2024] [IWACO'24](https://2024.splashcon.org/home/iwaco-2024), program committee
 * [2023] [ICOOOLPS'23](https://2023.issta.org/track/ICOOOLPS-2023), program committee
