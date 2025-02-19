@@ -2,19 +2,33 @@ Research
 ========
 
 I am an assistant professor at Uppsala University, working on
-programming languages, semantics and type systems. I am involved
-in the [Verona project](https://www.microsoft.com/en-us/research/project/project-verona/)
-together with Azure Research.
+programming languages, semantics and type systems. I am currently
+involved in the following projects:.
+
+- [Verona](https://www.microsoft.com/en-us/research/project/project-verona/),
+  a new programming language for infrastructure programming,
+  featuring a novel concurrency model called [behaviour-oriented
+  concurrency](https://uu.diva-portal.org/smash/get/diva2:1791738/FULLTEXT01.pdf)
+  with a co-designed [type
+  system](http://www.diva-portal.org/smash/get/diva2:1791730/FULLTEXT01.pdf).
+- [Trieste](https://github.com/microsoft/Trieste), a DSL for
+  [experimental development](papers/sle24.pdf) of multi-pass
+  compilers, featuring built-in support for property-based
+  testing.
+- [Miking](https://miking.org/), a framework for rapid development
+  of domain-specific languages based on [composition of language
+  fragments](https://people.kth.se/~dbro/papers/broman-2019-miking-vision.pdf),
+  featuring parsing with [statically resolvable
+  ambiguity](https://dl.acm.org/doi/10.1145/3571251).
 
 I used to be a post-doc researcher in [David
 Broman](https://www.kth.se/profile/dbro){:target="blank"}'s
 [group](https://www.kth.se/scs/mcs){:target="blank"} at
 [KTH](http://www.kth.se){:target="blank"}, working on
-heterogeneous model compilers and semantics. I am currently
-involved in two projects; one relating to [composition of language
-semantics](https://people.kth.se/~dbro/hmc.html), and one relating
-to [full-stack verification of programs synthesized from timed
-automata](https://people.kth.se/~dbro/projects.html).
+[heterogeneous model compilers and
+semantics](https://people.kth.se/~dbro/hmc.html){:target="blank"},
+as well as [full-stack verification of programs synthesized from
+timed automata](https://people.kth.se/~dbro/projects.html){:target="blank"}.
 
 I did my PhD with [Tobias
 Wrigstad](http://www.wrigstad.com){:target="blank"} and [Dave
@@ -35,11 +49,10 @@ I was one of the main contributors to
 [Encore](https://encore-lang.github.io/){:target="blank"}, a
 highly concurrent object-oriented programming language. Encore's
 type system guarantees the absence of data-races and is based on
-my work on Kappa [](TODO: Page of its own).
+my work on
+[Kappa](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-336021){:target="blank"}.
 
 I am always interested in discussing collaboration!
-
-[](TODO: Research interests + link to summary of research (Kappa page?))
 
 [](TODO: List co-authors for publications)
 
@@ -184,7 +197,7 @@ I have co-supervised the following PhD students:
 
 * Ellen Arvidsson (since 2021)
 * Viktor Palmkvist (since 2021, graduated 2024)
-* Beatrice Åkerblom (since 2019)
+* Beatrice Åkerblom (since 2019, graduating in 2025)
 
 I am currently supervising the following bachelor thesis projects:
 
@@ -201,7 +214,8 @@ I have supervised the following bachelor thesis projects:
 * Christian Törnqvist -- [Finding Patterns in Lock-Free Algorithms](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:1136791)
 * Joel Wallin -- [Implementing Safe Sharing Features in Encore](theses/thesis-joelwallin.pdf)
 * Jonas Olander -- [Separate Compiling for Encore](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-330697)
-* Tage Johansson -- A Strongly Typed Shell with Full Control over Side Effects
+* Tage Johansson -- [A Strongly Typed Shell with Full Control over Side Effects](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1864006&dswid=-4984)
+* Victor Odebäck -- [CTriPio: Developing an Intermediate Representation of C code in Trieste for Static Analysis](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1891513&dswid=-9888)
 
 Personal
 ========
