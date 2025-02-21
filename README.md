@@ -237,9 +237,6 @@ I spend a lot of my free time on listening to and creating music.
   is a recording of my setting of Alfred Tennyson's Now Sleeps the
   Crimson Petal, performed by the women's choir
   [Discordia](http://udkdiscordia.se/){:target="blank"}. [](TODO: Another page)
-* I like to play [Geoguessr](https://www.geoguessr.com).
-  [Here](geoguessr.pdf) is a presentation I did about the kinds of
-  things you can look for.
 * I play the electric and upright
   bass. [Here](https://www.youtube.com/watch?v=VPzk-28ZiYc) is a
   recording I made as a Christmas present for the friend who
@@ -249,3 +246,7 @@ I spend a lot of my free time on listening to and creating music.
   from 2013 is on Spotify! I wrote and arranged the songs Gånglåt
   från Gottsunda ("Walking Song from Gottsunda"), Cykeltjuven
   ("The Bicycle Thief") and Kometen ("The Comet").
+
+I like to play [Geoguessr](https://www.geoguessr.com).
+[Here](geoguessr.pdf) is a presentation I did about the kinds of
+things you can look for when playing.
