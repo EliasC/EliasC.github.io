@@ -124,18 +124,20 @@ Publications and Presentations
 
 Community Service
 -----------------
+* [2025] [Programming'25](https://2025.programming-conference.org/track/programming-2025-SRC), student research competition jury
 * [2025] [MoreVMs'25](https://2025.programming-conference.org/home/MoreVMs-2025), reviewing
 * [2025] [GulFest](https://2025.programming-conference.org/home/MoreVMs-2025), reviewing
 * [2024] [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming), reviewing
 * [2024] [TCPS](https://dl.acm.org/journal/tcps), reviewing
 * [2024] [SLE'24](https://2024.splashcon.org/track/sle-2024), program committee
 * [2024] [IWACO'24](https://2024.splashcon.org/home/iwaco-2024), program committee
+* [2024] [Programming'24](https://2024.programming-conference.org/track/programming-2024-SRC), student research competition jury
 * [2023] [ICOOOLPS'23](https://2023.issta.org/track/ICOOOLPS-2023), program committee
 * [2023] [VIMPL'23](https://2023.programming-conference.org/home/vimpl-2023), program committee
 * [2023] [IWACO'23](https://2023.splashcon.org/home/iwaco-2023), program committee
 * [2023] [PLACES'23](https://places-workshop.github.io/2023/), program committee
 * [2022] [SCP](https://www.sciencedirect.com/journal/science-of-computer-programming), reviewing
-* [2021] [SPLASH'21](https://2021.splashcon.org/track/splash-2021-SRC){:target="blank"}, student research competition judge
+* [2021] [SPLASH'21](https://2021.splashcon.org/track/splash-2021-SRC){:target="blank"}, student research competition jury
 * [2021] [SLE'21](https://conf.researchr.org/home/sle-2021){:target="blank"}, artifact evaluation co-chair
 * [2021] [AGERE'21](https://2021.splashcon.org/home/agere-2021){:target="blank"}, member of the organizing committee.
 * [2020] [AGERE'20](https://2020.splashcon.org/home/agere-2020){:target="blank"}, member of the organizing committee.
