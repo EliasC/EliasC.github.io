@@ -1,9 +1,11 @@
 Research
 ========
 
-I am an assistant professor at Uppsala University, working on
-programming languages, semantics and type systems. I am currently
-involved in the following projects:.
+I am an assistant professor in the [Programming Languages and
+Software Technology](https://fxpl.github.io) research group at
+Uppsala University, working on programming languages, semantics
+and type systems. I am currently involved in the following
+projects:.
 
 - [Verona](https://www.microsoft.com/en-us/research/project/project-verona/),
   a new programming language for infrastructure programming,
