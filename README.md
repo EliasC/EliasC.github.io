@@ -61,9 +61,9 @@ Publications and Presentations
 * [2024] Trieste: A C++ DSL for Flexible Tree Rewriting -- SLE'24 ([paper](papers/sle24.pdf))
 * [2024] Arrays in Practice: An Empirical Study of Array Access
   Patterns on the JVM -- Programming'24 ([paper](https://programming-journal.org/2024/8/14/))
+* [2024] Encore: Coda -- Springer Nature ([paper](https://link.springer.com/chapter/10.1007/978-3-031-51060-1_3))
 * [2023] Reference Capabilities for Flexible Memory Management -- OOPSLA'23
   ([paper](https://dl.acm.org/doi/10.1145/3622846))
-* [2023] Encore: Coda -- Springer Nature (Paper to be posted)
 * [2023] Statically Resolvable Ambiguity -- POPL'23
   ([paper](https://dl.acm.org/doi/10.1145/3571251)|[artifact](https://zenodo.org/record/7260815))
 * [2021] Resolvable Ambiguity: Principled Resolution of
