@@ -195,16 +195,22 @@ I am the main supervisor of the following PhD students:
 
 * Matilda Blomqvist (since 2023)
 
-I have co-supervised the following PhD students:
+I am the co-supervisor the following PhD students:
 
 * Ellen Arvidsson (since 2021)
-* Viktor Palmkvist (since 2021, graduated 2024)
-* Beatrice Åkerblom (since 2019, graduating in 2025)
+
+I have supervised the following PhD students to completion:
+
+* Viktor Palmkvist (co-advisor, graduated 2024)
+* Beatrice Åkerblom (main advisor, graduated in 2025)
 
 I am currently supervising the following bachelor thesis projects:
 
-* Emma Angetun -- Extending the Object Calculus OOlong
-* Linus Waehler -- Can ChatGPT Achieve Mastery? Using ChatCPT to Pass a Second Year University Programming Course
+* Hugo Lönnqvist Österberg
+* Richard Widén
+
+[](* Emma Angetun -- Extending the Object Calculus OOlong)
+[](* Linus Waehler -- Can ChatGPT Achieve Mastery? Using ChatCPT to Pass a Second Year University Programming Course)
 
 I have supervised the following master thesis projects:
 
