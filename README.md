@@ -60,6 +60,7 @@ I am always interested in discussing collaboration!
 
 Publications and Presentations
 ------------------------------
+* [2025] Decoupling Isolation and Concurrency: An Actor-Centric View of Behaviour-Oriented Concurrency -- GulFest ([paper](papers/gulfest.pdf))
 * [2024] Trieste: A C++ DSL for Flexible Tree Rewriting -- SLE'24 ([paper](papers/sle24.pdf))
 * [2024] Arrays in Practice: An Empirical Study of Array Access
   Patterns on the JVM -- Programming'24 ([paper](https://programming-journal.org/2024/8/14/))
@@ -203,12 +204,11 @@ I am the co-supervisor the following PhD students:
 
 I have supervised the following PhD students to completion:
 
-* Viktor Palmkvist (co-advisor, graduated 2024)
 * Beatrice Åkerblom (main advisor, graduated in 2025)
+* Viktor Palmkvist (co-advisor, graduated 2024)
 
 I am currently supervising the following bachelor thesis projects:
 
-* Hugo Lönnqvist Österberg
 * Richard Widén
 
 [](* Emma Angetun -- Extending the Object Calculus OOlong)
@@ -220,12 +220,13 @@ I have supervised the following master thesis projects:
 
 I have supervised the following bachelor thesis projects:
 
-* Gustav Lundin -- [Pattern Matching in Encore](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-294513){:target="blank"}
-* Christian Törnqvist -- [Finding Patterns in Lock-Free Algorithms](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:1136791)
-* Joel Wallin -- [Implementing Safe Sharing Features in Encore](theses/thesis-joelwallin.pdf)
-* Jonas Olander -- [Separate Compiling for Encore](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-330697)
-* Tage Johansson -- [A Strongly Typed Shell with Full Control over Side Effects](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1864006&dswid=-4984)
+* Hugo Lönnqvist Österberg -- [Implementing Dataflow Analysis for an Imperative Programming Language in Trieste](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-559283)
 * Victor Odebäck -- [CTriPio: Developing an Intermediate Representation of C code in Trieste for Static Analysis](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1891513&dswid=-9888)
+* Tage Johansson -- [A Strongly Typed Shell with Full Control over Side Effects](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1864006&dswid=-4984)
+* Jonas Olander -- [Separate Compiling for Encore](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-330697)
+* Joel Wallin -- [Implementing Safe Sharing Features in Encore](theses/thesis-joelwallin.pdf)
+* Christian Törnqvist -- [Finding Patterns in Lock-Free Algorithms](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:1136791)
+* Gustav Lundin -- [Pattern Matching in Encore](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-294513){:target="blank"}
 
 Personal
 ========
