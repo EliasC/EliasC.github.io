@@ -207,9 +207,7 @@ I have supervised the following PhD students to completion:
 * Beatrice Åkerblom (main advisor, graduated in 2025)
 * Viktor Palmkvist (co-advisor, graduated 2024)
 
-I am currently supervising the following bachelor thesis projects:
-
-* Richard Widén
+[](I am currently supervising the following bachelor thesis projects:)
 
 [](* Emma Angetun -- Extending the Object Calculus OOlong)
 [](* Linus Waehler -- Can ChatGPT Achieve Mastery? Using ChatCPT to Pass a Second Year University Programming Course)
@@ -220,6 +218,7 @@ I have supervised the following master thesis projects:
 
 I have supervised the following bachelor thesis projects:
 
+* Richard Widén -- [Compiling a Functional Language to LLVM IR using Trieste](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-568712)
 * Hugo Lönnqvist Österberg -- [Implementing Dataflow Analysis for an Imperative Programming Language in Trieste](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-559283)
 * Victor Odebäck -- [CTriPio: Developing an Intermediate Representation of C code in Trieste for Static Analysis](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1891513&dswid=-9888)
 * Tage Johansson -- [A Strongly Typed Shell with Full Control over Side Effects](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1864006&dswid=-4984)
