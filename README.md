@@ -1,11 +1,11 @@
 Research
 ========
 
-I am an assistant professor in the [Programming Languages and
-Software Technology](https://fxpl.github.io) research group at
-Uppsala University, working on programming languages, semantics
-and type systems. I am currently involved in the following
-projects:.
+I am an associate senior lecturer (biträdande lektor, docent) in the
+[Programming Languages and Software Technology](https://fxpl.github.io)
+research group at Uppsala University, working on programming
+languages, semantics and type systems. I am currently involved in
+the following projects:.
 
 - [Verona](https://www.microsoft.com/en-us/research/project/project-verona/),
   a new programming language for infrastructure programming,
@@ -197,10 +197,6 @@ Students
 I am the main supervisor of the following PhD students:
 
 * Matilda Blomqvist (since 2023)
-
-I am the co-supervisor the following PhD students:
-
-* Ellen Arvidsson (since 2021)
 
 I have supervised the following PhD students to completion:
 
