@@ -214,6 +214,10 @@ I have supervised the following master thesis projects:
 
 I have supervised the following bachelor thesis projects:
 
+[](* Thomas Hägglund-Skörd -- [Evaluating an Alternative Pattern Representation in Trieste](TBP))
+[](* Alexandra Sennblad -- [Comparing two Approaches for Language Agnostic Compiler Fuzzing](TBP))
+* Ludvig Sjöberg -- [Evaluating Trieste and QuickCheck for Generative Testing of Compiler Passes](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-593566)
+* Hampus Toft -- [Mechanizing Proofs from a Course on Programming Language Semantics in Lean](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-592902)
 * Richard Widén -- [Compiling a Functional Language to LLVM IR using Trieste](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-568712)
 * Hugo Lönnqvist Österberg -- [Implementing Dataflow Analysis for an Imperative Programming Language in Trieste](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-559283)
 * Victor Odebäck -- [CTriPio: Developing an Intermediate Representation of C code in Trieste for Static Analysis](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1891513&dswid=-9888)
