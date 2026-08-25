@@ -60,6 +60,8 @@ I am always interested in discussing collaboration!
 
 Publications and Presentations
 ------------------------------
+* [2026] When Behaviours Have to Happen: An Axiomatic Model of Causality in Behaviour-Oriented Concurrency -- CONCUR'26 ([paper]( https://doi.org/10.4230/LIPIcs.CONCUR.2026.23
+))
 * [2025] Decoupling Isolation and Concurrency: An Actor-Centric View of Behaviour-Oriented Concurrency -- GulFest ([paper](papers/gulfest.pdf))
 * [2024] Trieste: A C++ DSL for Flexible Tree Rewriting -- SLE'24 ([paper](papers/sle24.pdf))
 * [2024] Arrays in Practice: An Empirical Study of Array Access
